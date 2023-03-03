@@ -1,2 +1,3 @@
 # stoper
-Prosta aplikacja stoper ktora posiada mozliwosc zapisywania poprzednich wynikow
+Simple application that contains StopWatch.
+App has a updating history of Times 
